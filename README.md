@@ -1,5 +1,5 @@
 - Hi, I’m Kat!
-- You can reach me at: katweeddale@gmail.com or linkedin.com/in/kat-tweeddale-939a32a0/
+- You can reach me at: katweeddale@gmail.com or https://www.linkedin.com/in/kat-tweeddale-939a32a0/
 - I'm currently working on a full-stack web app!
 - I have a background in JavaScript, Python, Fortran, C++, SQL
 - UI/UX design
