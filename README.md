@@ -1,10 +1,12 @@
 - Hi, I’m Kat!
 - You can reach me at: katweeddale@gmail.com or https://www.linkedin.com/in/kat-tweeddale
-- I'm currently working on a full-stack web app!
+- I'm currently working on a full-stack web app in JavaScript, using React, Node.js and SQL.
 - I have a background in JavaScript, Python, Fortran, C++, SQL
-- UI/UX design
+- UI/UX research and design
 - Project planning and agile methodologies
 - Interested in testing and TDD
 - I have a degree in physics with Astrophysics from the University of Sussex (2016)
-
+- Background in art and performing
+- Tabletop gamer, singer and runner
+- Connecting art, science and tech
 
