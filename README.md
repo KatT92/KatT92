@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KatT92
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning Python, Django
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me: katweeddale@gmail.com
+- Hi, I’m Kat!
+- You can reach me at: katweeddale@gmail.com
+- I'm currently working on a full-stack web app!
+- I have a background in JavaScript, Python, Fortran, C++, SQL
+- UI/UX design
+- Project planning and agile methodologies
+- Interested in testing and TDD
+- I have a degree in physics with Astrophysics from the University of Sussex (2016)
 
-<!---
-KatT92/KatT92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
